@@ -1,0 +1,35 @@
+div.study-room-container {
+    margin-left: 45vw;
+    align-content: center;
+    margin-top: 40vh;
+    width: fit-content;
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.89);
+    text-align: center;
+}
+
+.timer{
+    font-size: 5rem; /* Adjust the size as needed */
+    padding: 20px;
+    margin-bottom: 3vh;
+    text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.89);
+  }
+  
+.buttons{
+    text-align: center;
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.89);
+    background-color: rgba(255, 255, 255, 0.897);
+    padding: 2vh;
+    border-radius: 1vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+  button{
+    padding: 2vh;
+    border-radius: 1vh;
+    border-width: 1px;
+    background-color: #dd9f76;
+  }
+
+  button:hover{
+    background-color: #a37252;
+  }
