@@ -20,10 +20,10 @@ Look no further! Our website allows you to select song from our list so that you
 
 ### <p align="center"><strong>made with ❤️ using</strong> </p>
 <p align="center">
-  <img width=100px height=100px style="margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/b5eaecdc-833a-481a-8173-37e6a1327f29">
-  <img style="width:100px;height:100px;margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/9829648f-6b1b-4ff4-be28-5b9e078dbc62">
-  <img style="width:100px;height:100px;margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/f73d9e1c-a7b6-46e3-8fa5-5f7ceb0898a4">
-  <img style="width:100px;height:100px;margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/5a2a3aff-a3e8-455f-8e4c-b012c8294822">
+  <img width=100px height=100px style="margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/8c048e43-f869-4065-8cf0-0a590e6a5607">
+  <img width=100px height=100px style="margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/c1815f36-6baa-4410-91d6-b83aa19faadc">
+  <img style="width:100px;height:100px;margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/bfc5b78b-6d38-48cf-860f-b91f48c2a888">
+  <img style="width:100px;height:100px;margin-right:100px" src="https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/3dd9e1c6-0734-42d1-96f9-2aaa791b919e">
 
 </p>
 
