@@ -39,7 +39,8 @@ Look no further! Our website allows you to select song from our list so that you
 
 ***Diagram representation***
 <br>
-![diagram-export-6-22-2024-12_19_36-PM](https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/9451df35-d19a-4b23-9046-82aca1ebfe6c)
+![diagram-export-6-23-2024-11_02_15-AM](https://github.com/NarutoUchiha39/PomodoroWebsite/assets/104666748/20b23b12-fb35-463f-872e-75a4ade9f245)
+
 
 
 *List of microservices and their dependencies:*<br><br>
